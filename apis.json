@@ -1,0 +1,49 @@
+{
+    "name": "Mozilla Brick",
+    "description": "<p>Brick is a collection of UI components designed for the easy and quick building of web application UIs. Brick components are built using the Web Components standard to allow developers to describe the UI of their app using the HTML syntax they already know.<\/p>",
+    "image": "",
+    "tags": [
+        "api service provider",
+        "embeddable",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mozilla-brick\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Mozilla Brick",
+            "description": null,
+            "image": "",
+            "humanURL": "http:\/\/brick.mozilla.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mozilla-brick-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/brick.mozilla.io\/v2.0\/blog"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/mozbrick"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mozbrick"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/brick.mozilla.io\/"
+        }
+    ]
+}
